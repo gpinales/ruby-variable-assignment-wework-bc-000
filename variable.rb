@@ -1,2 +1,1 @@
-# => "Hello password"
-greeting = #
+greeting = "Hello World"
