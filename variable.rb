@@ -1,0 +1,3 @@
+# => "Hello password"
+greeting = #
+greeting
